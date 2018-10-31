@@ -1,4 +1,4 @@
-# SDK-Payment-Process-BASE-
+# SDK-Payment-Process
 For: Product Manager , Development Engineer
 
 
